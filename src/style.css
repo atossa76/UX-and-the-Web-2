@@ -21,6 +21,10 @@ h3 {
   border-radius: 50px;
   box-shadow: 10px 10px 20px rgb(167, 167, 167),
     inset 7px 7px 20px rgb(187, 187, 187);
-  margin: 110px;
+  margin: 110px 110px 20px 110px;
   padding: 50px 0px 50px 60px;
+}
+.footer {
+  text-align: center;
+  color: #061426;
 }
