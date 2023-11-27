@@ -1,0 +1,26 @@
+body {
+  background-image: url("images/3d74421c79264a90e2c164825f33fda2 copy.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1,
+h3 {
+  text-align: center;
+}
+
+.profile-picture {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 40px;
+}
+.box {
+  background-color: #fff9f7;
+
+  border-radius: 50px;
+  box-shadow: 10px 10px 20px rgb(167, 167, 167),
+    inset 7px 7px 20px rgb(187, 187, 187);
+  margin: 110px;
+  padding: 50px 0px 50px 60px;
+}
